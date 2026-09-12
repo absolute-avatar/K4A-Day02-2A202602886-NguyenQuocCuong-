@@ -67,7 +67,8 @@ Chọn 3-4 câu trong 6 câu dưới để viết thành đoạn 8-12 câu (khô
 ```text
 Qua phần thảo luận nhóm, tôi nhận ra problem được đặt ra tốt là một problem có actor, workflow, bottleneck và metric rõ. Ban đầu tôi muốn làm công cụ AI chỉnh CV khá mạnh, nhưng sau khi bị challenge về rủi ro AI bịa kỹ năng, tôi đổi hướng sang AI chỉ hỗ trợ lọc, sắp xếp và nháp lại từ Master Profile đã xác minh. Đóng góp rõ nhất của tôi là đưa pain chỉnh CV theo JD thành workflow trước/sau: từ 7 bước khoảng 30 phút/CV xuống 4 bước dưới 10 phút/CV.
 
-Điều khó nhất là viết metric và boundary cho chặt, vì "CV tốt hơn" rất mơ hồ và AI không được phép viết vượt quá kinh nghiệm thật. Vì vậy nhóm chốt các ràng buộc như 100% nội dung truy vết được, 0 kỹ năng bịa đặt và người dùng phải review trước khi xuất CV. Nếu làm lại, tôi sẽ challenge nhóm sớm hơn về cách đo Match Rate và hỏi thêm mentor/người từng review CV để kiểm tra chất lượng bullet AI đề xuất.
+Điều khó nhất là viết metric và boundary cho chặt, vì "CV tốt hơn" rất mơ hồ và AI không được phép viết vượt quá kinh nghiệm thật. Vì vậy nhóm chốt các ràng buộc như 100% nội dung truy vết được, không bịa đặt kỹ năng và người dùng phải review trước khi xuất CV. Nếu làm lại, tôi sẽ challenge nhóm sớm hơn về cách đo Match Rate và hỏi thêm mentor/người từng review CV để kiểm tra chất lượng bullet AI đề xuất.
+Tôi cũng nhận ra không phải cứ chọn Agent thì luôn tốt và hiệu quả, việc chọn Workflow thay vì Agent giúp kiểm soát rủi ro tốt hơn. Sau bài này, tôi hiểu rõ hơn cách nối problem -> workflow -> metric -> boundary trước khi quyết định dùng AI.
 ```
 
 ---
